@@ -1,0 +1,40 @@
+/* outlines to see */
+nav {
+    outline: 1px solid blue;
+}
+.hero {
+    outline: 1px solid red;
+}
+section {
+    outline: 1px dashed black;
+    padding: 10px;
+    margin: 10px;
+}
+.quotes {
+    outline: 1px solid purple;
+}
+.programs {
+    outline: 1px solid orange;
+}
+.compare {
+    outline: 1px solid green;
+}
+.about {
+    outline: 1px solid red;
+}
+/* Base */
+
+/* Layout */
+nav {
+    display: flex;
+    justify-content: flex-end;
+}
+.hero {
+    display: flex;
+    justify-content: center;
+}
+/* Blocks */
+
+/* Elements */
+
+/* Modifiers */
